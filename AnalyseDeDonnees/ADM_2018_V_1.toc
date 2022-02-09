@@ -1,0 +1,17 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {french}
+\beamer@sectionintoc {1}{Donn\IeC {\'e}es Multivari\IeC {\'e}es}{3}{0}{1}
+\beamer@sectionintoc {2}{Analyse en composantes principales (ACP)}{8}{0}{2}
+\beamer@subsectionintoc {2}{1}{Lien entre $\eta _j$ et $\xi _i$}{25}{0}{2}
+\beamer@subsectionintoc {2}{2}{Disque de corr\IeC {\'e}lation}{27}{0}{2}
+\beamer@subsectionintoc {2}{3}{Individus et variables suppl\IeC {\'e}mentaires }{29}{0}{2}
+\beamer@subsectionintoc {2}{4}{Cas Pratique}{31}{0}{2}
+\beamer@sectionintoc {3}{L'Analyse des Correspondances Simples (AFC)}{37}{0}{3}
+\beamer@subsectionintoc {3}{1}{Test Khi2}{38}{0}{3}
+\beamer@subsectionintoc {3}{2}{L'analyse des correspondances simples}{47}{0}{3}
+\beamer@subsectionintoc {3}{3}{ACP du nuage des profils lignes-profils colonnes }{52}{0}{3}
+\beamer@subsectionintoc {3}{4}{Cas pratique}{59}{0}{3}
+\beamer@sectionintoc {4}{Analyse des correspondances multiples (ACM)}{62}{0}{4}
+\beamer@subsectionintoc {4}{1}{Pr\IeC {\'e}sentation Formelle}{64}{0}{4}
+\beamer@subsectionintoc {4}{2}{Aspects pratiques}{76}{0}{4}
+\beamer@subsectionintoc {4}{3}{Cas pratique}{81}{0}{4}

@@ -1,0 +1,45 @@
+\documentclass[16pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[francais]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[final]{pdfpages} 
+\author{Mory Ouattara}
+\newcommand{\Nat}{\mathbb{N}}
+\newcommand{\interp}[2]{\llbracket#1\rrbracket^{#2}}
+\title{Master 1 Data-Science -INPHB }
+\author{TP-ACM\\
+Mory Ouattara}
+\date{}
+\begin{document}
+
+%Les points sont donnés à titre indicatif.
+\maketitle 
+\thispagestyle{empty}
+
+\section{Les données}
+
+ 
+L'Observatoire de la Qualité de l'Air Intérieur (OQAI) a engagé entre 2003 et 2005 une campagne nationale dans les logements sur un échantillon de 567 logements représentatifs du parc des 24 millions de résidences principales de la France continentale métropolitaine. Cette campagne vise à dresser un état de la pollution de l'air dans l'habitat afin de donner les éléments utiles pour l'estimation de l'exposition des populations, la quantification et la hiérarchisation des risques sanitaires associés, ainsi que l'identification des facteurs prédictifs de la qualité de l'air intérieur.\\
+
+Les données utilisées ont été préalablement validées par l'OQAI et les données manquantes complétées par l'AFSSET. Étant donné le grand nombre et la diversité des questions qui constituent l'enquête, il a été décidé de les regrouper en trois ensembles cohérents en fonction de trois critères tenant compte respectivement de la structure technique du logement, de la structure des ménages et des habitudes des ménages. Ces trois ensembles ont permis de procéder à trois études séparées, chacune permettant de faire apparaître des groupes cohérents qui permettent de décrire l’échantillon analysé en respectivement six, sept et neuf modalités.\\
+
+L’analyse descriptive de la multipollution réalisée par l’AFSSET sur les polluants dans les logements a permis de dégager quatre groupes de pollution permettant de décrire la pollution dans les logements. A partir de ces derniers, quatorze sous groupes de pollution ont été caractérisés.  Voir annexe 1 pour les différentes typologies.
+
+\section{ACM} 
+
+1-) Faire analyse univariée des trois variables.
+
+2-) Existe-t-il une relation  de dépendance entre les différentes variables? Faire un test du khi2 sur les variables prises deux à deux.
+
+
+3-) Faire une analyse factorielle Multiples des Correspondances (ACM) du tableau. 
+       
+
+ 
+\includepdf[pages=39-41]{Rapport_OQAI_L2.pdf}
+
+\end{document}

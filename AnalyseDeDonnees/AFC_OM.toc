@@ -1,0 +1,11 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {french}
+\beamer@sectionintoc {1}{Test Khi2}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Le test du Khi2}{5}{0}{1}
+\beamer@sectionintoc {2}{L\IeC {\textquoteright }analyse des correspondances simples}{13}{0}{2}
+\beamer@subsectionintoc {2}{1}{Notations et pr\IeC {\'e}sentation}{14}{0}{2}
+\beamer@subsectionintoc {2}{2}{ACP du nuage des profils lignes-profils colonnes }{19}{0}{2}
+\beamer@subsectionintoc {2}{3}{Lien entre les deux analyses }{22}{0}{2}
+\beamer@subsectionintoc {2}{4}{Repr\IeC {\'e}sentation de l'A.F.C.}{23}{0}{2}
+\beamer@subsectionintoc {2}{5}{Aides \IeC {\`a} l\IeC {\textquoteright }interpr\IeC {\'e}tation : identiques \IeC {\`a} celles de l\IeC {\textquoteright }A.C.P.}{26}{0}{2}
+\beamer@sectionintoc {3}{Cas pratique}{29}{0}{3}

@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {french}
+\beamer@sectionintoc {1}{Analyse des donn\IeC {\'e}es}{3}{0}{1}
+\beamer@sectionintoc {2}{M\IeC {\'e}thodes factorielles}{7}{0}{2}
+\beamer@sectionintoc {3}{L\IeC {\textquoteright }ANALYSE EN COMPOSANTES PRINCIPALES (A.C.P.)}{10}{0}{3}
+\beamer@subsectionintoc {3}{1}{Formalisme du probl\IeC {\`e}me de ACP}{12}{0}{3}
+\beamer@subsectionintoc {3}{2}{Principe de l'ACP}{15}{0}{3}
+\beamer@subsectionintoc {3}{3}{LE CHOIX DE LA DISTANCE ENTRE INDIVIDUS}{20}{0}{3}
+\beamer@subsectionintoc {3}{4}{Inertie Totale}{22}{0}{3}
+\beamer@sectionintoc {4}{Solution}{27}{0}{4}
